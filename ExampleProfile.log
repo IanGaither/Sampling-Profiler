@@ -1,0 +1,27 @@
+Total Samples: 6610
+Minimum Samples to Display: 10
+Minimum Percent Usage to Display: 1
+
+Fluid::GetNeighbors: cpu usage: 46% samples: 3100
+In file: c:\users\soarky\desktop\spring 2019\cs315\project3\fluid.cpp:164
+
+Fluid::Update: cpu usage: 22% samples: 1516
+In file: c:\users\soarky\desktop\spring 2019\cs315\project3\fluid.cpp:342
+
+D3DXDebugMute: cpu usage: 11% samples: 765
+
+NtUserMessageCall: cpu usage: 1% samples: 132
+
+ScriptBreak: cpu usage: 1% samples: 124
+
+Fluid::SqrtDist: cpu usage: 1% samples: 106
+In file: c:\users\soarky\desktop\spring 2019\cs315\project3\fluid.cpp:260
+
+Fluid::UpdateGrid: cpu usage: 1% samples: 91
+In file: c:\users\soarky\desktop\spring 2019\cs315\project3\fluid.cpp:125
+
+NtWaitForSingleObject: cpu usage: 1% samples: 85
+
+OnFrameRender: cpu usage: 1% samples: 74
+In file: c:\users\soarky\desktop\spring 2019\cs315\project3\rendering.cpp:177
+
