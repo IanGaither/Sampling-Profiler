@@ -16,7 +16,7 @@ The properties of the profiler can be set via the constructor. You can specify t
 profiles in a single run and not have them write over eachother. You can also set a flag to show files and line numbers for 
 files that can be accessed as well as setting the minimum number of samples and the minimum cpu usage thresholds required for 
 items to show up in the output log. The minimum properties are meant to help clean up a lot of the miscellaneous functions 
-that appear
+that appear.
 
 Implementation:
 
